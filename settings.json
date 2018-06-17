@@ -51,7 +51,7 @@
     "host": "localhost",
     "port": 9931,
     "user": "DakeCoinrpc",
-    "pass": "DakeCoinpassword"
+    "pass": "DakeCoinrpcpassword"
   },
 
   // confirmations
